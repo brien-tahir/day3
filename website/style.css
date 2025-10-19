@@ -1,0 +1,138 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+
+.header ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    font-size: 25px;
+}
+
+.header button{
+    width: 100px;
+    height: 30px;
+    background-color: rgb(8, 8, 127);
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+
+
+.image{
+    background-image: url("https://i.pinimg.com/1200x/d6/b4/02/d6b4021dfb9d29201021c4c4887b6fcf.jpg");
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50px;
+    /* margin-left: 20px; */
+    /* margin: 30px; */
+    
+    
+}
+
+
+.text{
+    padding: 60px;
+}
+
+
+.text h3{
+    font-size: medium;
+    font-style: italic;
+}
+
+.text h1{
+     font-style: italic;
+     margin-top: 11px;
+
+}
+
+.sawir1 img{
+    width: 300px;
+    height: 300px;
+    margin-top: 50px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+
+.container{
+   margin-left: 400px;
+   margin-top: -230px;
+ 
+}
+
+.container h1{
+    font-style: italic;
+}
+
+.container p{
+    margin-top: 10px;
+    font-weight: 10px;
+    font-style: oblique;
+}
+
+.container button{
+    margin-top: 20px;
+    margin-left: 80px;
+    width: 130px;
+    height: 30px;
+    background-color: rgb(11, 11, 125);
+    color: white;
+    border-radius: 8px;
+    border: none;
+}
+
+.sawir2 img{
+     width: 300px;
+    height: 300px;
+    margin-top: 50px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    margin-left: 1000px;
+    margin-top: -90px;
+
+}
+
+.sawir3{
+    background-image: url("https://i.pinimg.com/1200x/3e/71/68/3e7168c2f1a05de5808f4c6534105880.jpg");
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    border-radius: 90px;
+    margin-top: 75px;
+}
+
+.text2{
+    padding: 80px;
+}
+
+.text2 p{
+    margin-top: 20px;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.text2 button{
+     margin-top: 20px;
+    margin-left: 80px;
+    width: 130px;
+    height: 35px;
+    background-color: rgb(11, 11, 125);
+    color: white;
+    border-radius: 8px;
+    border: none;
+
+}
